@@ -1,0 +1,1 @@
+# yolo5-trashdetect
